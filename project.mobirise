@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.10.2",
-    "uniqCompNum": 26,
+    "uniqCompNum": 27,
     "versionPublish": "4.10.5",
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
@@ -407,6 +407,55 @@
           "_anchor": "gallery4-j"
         },
         {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": "57",
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Eli Yomtov",
+          "text": "A lifetime artist dedicated to our Torah&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CALL</a>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-q"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -414,6 +463,9 @@
           "_styles": {
             ".form-control-label": {
               "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "color": "#efefef"
             }
           },
           "_anchor": "form1-4",
@@ -461,7 +513,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ENVOYER&nbsp;</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND&nbsp;</a>"
         },
         {
           "_tags": [
