@@ -23,7 +23,8 @@
       "additionalSetColors": [
         "#282828",
         "#151844",
-        "#232323"
+        "#232323",
+        "#481a1a"
       ]
     },
     "versionFirst": "3.10.2",
@@ -475,46 +476,19 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
+            "bgColor": "#481a1a",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8,
             "googleMap": {
-              "address": "7 louise thuilliez\n75019 paris\n",
-              "placeId": "ChIJmeaRVr5t5kcRuHANiycWO5Q",
+              "address": "ershon Agron St 26-28, Jerusalem, 9419008",
+              "placeId": "ChIJn1UD3NMpAxURL-gq2RBuU-g",
               "state": "ok",
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Address</strong><br>7 louise thuilliez<br>75019 paris<br><br><br>\n<strong>Contacts</strong><br>tel.:+33-6-64431294<br><br>email : paris19place@gmail.com<br><br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong><a href=\"mailto:sabrinachikly@gmail.com\">Links</a></strong></p><ul><li><a href=\"mailto:sabrinachikly@gmail.com\">Airbnb</a></li><li><a href=\"mailto:sabrinachikly@gmail.com\">Bookin.com.</a></li><li><a href=\"mailto:sabrinachikly@gmail.com\">Trivago</a></li><li><a href=\"mailto:sabrinachikly@gmail.com\">Book now</a></li><li><a href=\"tel:+33-6-64431294\">Call us</a></li></ul>"
-        },
-        {
-          "_inherit": "social-buttons2",
-          "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "_tags": [
-            "Thème"
-          ],
-          "text": "SHARE",
-          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a>      ",
-          "_name": "social-buttons4",
-          "_anchor": "social-buttons4-k"
+          "text1": "<strong>Exhibition Address</strong><br>The Waldorf Astoria Gallery<br>&nbsp;Gershon Agron St 26-28, <br>Jerusalem, 9419008<br><br><br><br>\n<strong>Contact<br></strong><br>YomTov<br>tel.:+972-052390 36 34<br><br>email : yomtovgallery@gmail.com<br><br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong><a href=\"mailto:sabrinachikly@gmail.com\">Links</a></strong></p><ul><li><a href=\"tel:+972- 02-542-3333\">Waldorf astoria</a></li><li><a href=\"tel:+972-0546385627\">Webmast</a></li><li><a href=\"tel:+972-0523903634\">Call us</a></li></ul>"
         },
         {
           "_params": {
@@ -529,7 +503,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2018/2019 parisplace.com &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Design by <a href=\"http://www.agenceduwebaparis.tk\" target=\"_blank\">Agencewebaparis.com</a>",
+          "text": "Copyright (c) 2018/2019 yomtovgallery &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Design by <a href=\"http://madebygideon.tk\" target=\"_blank\">madebygideon</a>",
           "_tags": [
             "Thème"
           ],
