@@ -7,7 +7,7 @@
       "title": "Mobirise 3",
       "styling": {
         "primaryColor": "#c0a375",
-        "secondaryColor": "#3d8eb9",
+        "secondaryColor": "#2969b0",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.10.2",
-    "uniqCompNum": 22,
+    "uniqCompNum": 26,
     "versionPublish": "4.10.5",
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
@@ -68,23 +68,8 @@
             "timeout": 5,
             "slides": [
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/beersheva-1148x823-1148x823.jpeg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "overlayOpacity": "0.2",
-                "contentAlign": "right",
-                "showTitle": true,
-                "title": "&nbsp;",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"tel;+972585101081\" data-toolbar=\"-mbrBtnMove\">plus d'infos</a> "
-              },
-              {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc00852-979x734-979x734.jpg",
+                "image": "@PROJECT_PATH@/assets/images/4.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -100,7 +85,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc00738-979x734-979x734.jpeg",
+                "image": "@PROJECT_PATH@/assets/images/2.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -115,26 +100,11 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"tel;+972585101081\" data-toolbar=\"-mbrBtnMove\">plus d'infos</a> "
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc00880-734x979-734x979.jpeg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/1-1.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "overlayOpacity": "0.1",
-                "contentAlign": "right",
-                "showTitle": true,
-                "title": "Religious<br>Art<br>Paintings",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"tel;+972585101081\" data-toolbar=\"-mbrBtnMove\">plus d'infos</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/dsc00877-979x734-979x734.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
+                "overlay": false,
                 "overlayOpacity": "0.2",
                 "contentAlign": "right",
                 "showTitle": true,
@@ -181,13 +151,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#2969b0"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#2969b0"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#2969b0"
             },
             ".link": {
               "font-size": "0.95rem"
@@ -199,16 +169,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#1f5087"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#2662a4!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#2969b0"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#2969b0",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -239,11 +209,11 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
-            "bgColor": "#2969b0",
+            "transparent": true,
+            "bgColor": "#ffffff",
             "fontSize": "0.95",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#2969b0",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -261,10 +231,11 @@
               "family": "Mobirise2",
               "link": "https://mobirise.com",
               "size": 0,
-              "active": true
+              "active": true,
+              "color": "#2969b0"
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Yomtov Gallery</a>",
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Yomtov Gallery</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-a\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider3-2\">ABOUT &nbsp;US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery4-j\">PICTURES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-4\">CONTACT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-4\">BOOK ONLINE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
