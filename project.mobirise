@@ -24,7 +24,8 @@
         "#282828",
         "#151844",
         "#232323",
-        "#481a1a"
+        "#481a1a",
+        "#d9d9d9"
       ]
     },
     "versionFirst": "3.10.2",
@@ -69,8 +70,8 @@
             "timeout": 5,
             "slides": [
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/4.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/5.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -78,7 +79,7 @@
                 "overlayColor": "#efefef",
                 "contentAlign": "right",
                 "showTitle": true,
-                "title": "<br>The Story<br>of Hassidic<br>Modernity",
+                "title": "<br><br><br>Inside<br>Primary<br>Souls<br><br><br><br>",
                 "showText": false,
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": false,
@@ -94,14 +95,14 @@
                 "overlayColor": "#efefef",
                 "contentAlign": "right",
                 "showTitle": true,
-                "title": "<br>YomTov<br>Gallery<br><br>",
+                "title": "<br>&nbsp;A Gallery<br>of Jewish<br>Characters<br><br>",
                 "showText": false,
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"tel;+972585101081\" data-toolbar=\"-mbrBtnMove\">plus d'infos</a> "
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/1-1.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -109,11 +110,27 @@
                 "overlayOpacity": "0.2",
                 "contentAlign": "right",
                 "showTitle": true,
-                "title": "<br>&nbsp;Authentic<br>Jewish<br>Souls",
+                "title": "Authentic<br>Judaica<br>Theme",
                 "showText": false,
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"tel;+972585101081\" data-toolbar=\"-mbrBtnMove\">plus d'infos</a> "
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/5.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "overlayOpacity": "0.2",
+                "overlayColor": "#efefef",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "A Story<br>of Hassidic<br>Times",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"tel;+972585101081\" data-toolbar=\"-mbrBtnMove\">plus d'infos</a> "
               }
             ]
           },
@@ -468,7 +485,7 @@
               "color": "#232323"
             },
             ".mbr-section-title": {
-              "color": "#efefef"
+              "color": "#7c706b"
             }
           },
           "_anchor": "form1-4",
@@ -478,21 +495,21 @@
             "labelsColor": "#232323",
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/chassidim-email-1600x1200.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "bgColorRadio": true,
+            "bgColor": "#d9d9d9",
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.3"
           },
-          "title": "Contact us",
+          "title": "Contact Us",
           "subtitle": "",
           "form": {
-            "action": "sabrinachikly@gmail.com",
+            "action": "guchik178@gmail.com",
             "alerts": {
-              "success": "MERCI ET A BIENTOT"
+              "success": "Thank You !"
             },
             "fields": {
               "name": {
@@ -512,7 +529,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Votre Message -- Si vous souhaitez reservez , n'oubliez pas de mentionner les dates d'arrivée et de départ.Nous vous rappelons très bientot"
+                "customTitle": "MESSAGE"
               }
             }
           },
