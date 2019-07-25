@@ -29,7 +29,7 @@
       ]
     },
     "versionFirst": "3.10.2",
-    "uniqCompNum": 27,
+    "uniqCompNum": 31,
     "versionPublish": "4.10.5",
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
@@ -474,6 +474,33 @@
           ],
           "_name": "msg-box5",
           "_anchor": "msg-box5-q"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p>Yom Tov is a free-style artist.  His passion and his art - oil paintings and drawings -- are devoted to biblical themes with expressionistic and romantic interpretations.  Yom Tov believes that visual commentaries based on original Jewish holy texts and Jerusalem landscapes bring to public-at-large beauty and harmony of Jewish culture.  The last few years he has been working on a continuing series of Days of Creation, Kings and Prophets, Kohelet, and Hidden Light.&nbsp;</p><p><br></p><p>For the last 15 years Yom Tov has held many gallery and private shows around the world.</p>",
+          "text2": "<p>His paintings and hand-graphics were shown in museums and private collections in Israel, US, France, Switzerland, Japan, Norway, Belgium and Russia.  His work has been in many Jewish cultural centers around the US, in places such as: Boca Raton, New York, White Plains, Los Angeles, Palo Alto, San Francisco, Kansas City, Boston, Denver, Dallas and others.</p><p>  In 2008, Yom Tov partipated in the first international ArtJerusalem fair. In 2011 he did a solo show, “Kohelet”  at the Heichal Shlomo Jewish Art Museum. Presently he is exhibiting <b>“Kings and Prophets”</b>  at the Wohl Archeological Museum in the Jewish Quarter, Jerusalem. In addition, his work has been shown in:</p>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-r"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>\n</blockquote><blockquote>\n<span style=\"font-size: 1.09rem;\">\tNational Jewish Museum, Washington , DC &nbsp;</span></blockquote><blockquote>\tChan Museum, Askelon , Israel \n</blockquote><blockquote>\tCinema Museum, Moscow \n</blockquote><blockquote>\tLubavitch Rebbe Museum, Moscow \n</blockquote><blockquote>\tLiterature Museum, Moscow\n</blockquote><blockquote>\tGalerie de la Corraterie, Geneva\n</blockquote><blockquote>\tSiano Gallery, Philadelphia , PA \n</blockquote><blockquote>\tBranchville Soho Gallery, Ridgefield , CT\n</blockquote><blockquote>\tEden Gallery, Jerusalem \n</blockquote><blockquote>\tEdelweisscard Headquarters, Geneva \n</blockquote><blockquote>\tArt Exhibit, Rodeo Drive, Beverly Hills, California\n</blockquote><blockquote>\tThe World Market Center, Las Vegas</blockquote>",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-s"
         },
         {
           "_tags": [
