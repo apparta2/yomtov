@@ -25,7 +25,8 @@
         "#151844",
         "#232323",
         "#481a1a",
-        "#d9d9d9"
+        "#d9d9d9",
+        "#939393"
       ]
     },
     "versionFirst": "3.10.2",
@@ -734,7 +735,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2018/2019 yomtovgallery &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Design by <a href=\"http://madebygideon.tk\" target=\"_blank\">madebygideon</a>",
+          "text": "Copyright (c) 2018/2019 yomtovgallery &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Design by <a href=\"mailto:guchik178@gmail.com\">madebygideon</a>",
           "_tags": [
             "Thème"
           ],
